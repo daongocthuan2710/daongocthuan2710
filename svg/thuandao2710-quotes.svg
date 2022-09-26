@@ -17,10 +17,10 @@
                     line-height: 1.6;
 				}
                 .quotes-eng {
-                font-size: 20px;
+                font-size: 18px;
                 }
                 .trungquandev-signature {
-                font-size: 18px;
+                font-size: 16px;
                 }
 			</style>
 
