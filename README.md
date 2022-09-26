@@ -2,7 +2,7 @@
 <a href="#" target="_blank">
   <img src="svg/thuandao2710.svg" width="1200" alt="thuandao2710-official" />
 </a>
-
+<h2> About me: </h2>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -55,13 +55,25 @@
   <a href="#" title="thuandao">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daongocthuan2710&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="thuandao">
+  <a href="#" title="thuandao_stats">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=daongocthuan2710&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="thuandao_stats">
+    <img align="center" width="100%" height="10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+  <a href="#" title="thuandao_Streak">
+    <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=daongocthuan2710" />
+  </a>
+    <a href="#" title="thuandao_stats">
+    <img align="center" width="100%" height="10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+  <a href="#" title="thuandao_Streak">
+    <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=daongocthuan2710" />
   </a>
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👽 How to reach me 👽</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
