@@ -2,7 +2,7 @@
 <a href="#" target="_blank">
   <img src="svg/thuandao2710.svg" width="1200" alt="thuandao2710-official" />
 </a>
-<h2> About me: </h2>
+<h2> About me 🧑 </h2>
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -49,7 +49,7 @@
 &nbsp; -->
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🔥 Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -62,7 +62,7 @@
 </div>
 
 <br>
-<h2 align="center">🔥 GitHub Streak 🔥</h2>
+<h2 align="center">🔥 Streak 🔥</h2>
 <div>
   <a href="#" title="thuandao_Streak">
     <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=daongocthuan2710&theme=onedark" />
@@ -70,7 +70,7 @@
 </div>
 
   <br>
-<h2 align="center">🔥 GitHub Trophy 🔥</h2>
+<h2 align="center">🏆 Trophy 🏆</h2>
 <div>
   <a href="#" title="thuandao_Streak">
     <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=daongocthuan2710&theme=onedark" />
