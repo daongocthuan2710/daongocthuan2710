@@ -15,28 +15,19 @@
 					border-radius: 10px;
 					color: white;
                     line-height: 1.6;
-                }
+				}
                 .quotes-eng {
-                font-size: 18px;
-                }
-                .quotes-vi {
-                font-size: 18px;
+                font-size: 20px;
                 }
                 .trungquandev-signature {
-                font-size: 16px;
+                font-size: 18px;
                 }
 			</style>
 
-            <h2 align="center">Random Quotes</h2>  
-            </br>
-            <div align="right">
-                [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+			<div class="container">
+                <div class="quotes-eng">"If you learn how to solve problems, you can go through life and do pretty well."</div>
+                <div class="trungquandev-signature">- Gary Kildall -</div>
             </div>
-            <!-- <div class="container">
-                <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>
-                <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay trở thành bản sao của ngày hôm qua?"</div>
-                <div class="trungquandev-signature">-Thuan Dao-</div>
-            </div> -->
 		</div>
 	</foreignObject>
 </svg>
