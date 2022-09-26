@@ -3,11 +3,7 @@
   <img src="svg/thuandao2710.svg" width="1200" alt="thuandao2710-official" />
 </a>
 <h2> About me: </h2>
-<div>
-  <a href="#" title="thuandao_stats">
-    <img align="center" width="100%" height="10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -51,11 +47,7 @@
 &nbsp; -->
 <!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp; -->
-<div>
-  <a href="#" title="thuandao_stats">
-    <img align="center" width="100%" height="10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
+
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
