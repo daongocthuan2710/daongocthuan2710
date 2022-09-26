@@ -77,7 +77,7 @@
   </a>
 </div>
 <br>
-<h2 align="center">👽 How to reach me 👽</h2>
+<h2 align="center">😊 How to reach me 😊</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
