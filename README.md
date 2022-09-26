@@ -62,13 +62,13 @@
     <img align="center" width="100%" height="10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   </a>
   <a href="#" title="thuandao_Streak">
-    <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=daongocthuan2710" />
+    <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=daongocthuan2710&theme=onedark" />
   </a>
     <a href="#" title="thuandao_stats">
     <img align="center" width="100%" height="10px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   </a>
   <a href="#" title="thuandao_Streak">
-    <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=daongocthuan2710" />
+    <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=daongocthuan2710&theme=onedark" />
   </a>
 </div>
 
