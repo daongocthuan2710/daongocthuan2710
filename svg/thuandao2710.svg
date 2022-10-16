@@ -829,7 +829,7 @@ html { background: #181743; }
   width: 74px;
 }
 body {
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%) !important;
   height: 100vh;
   overflow: hidden;
   display: flex;
@@ -1161,16 +1161,19 @@ body {
 }
 
 .flex-start{
-  left: -500px;
+  left: -300px;
 }
 .flex-end{
-  right: -500px;
+  right: -300px;
 }
 
+.add-background{
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%) !important;
+}
 
 			</style>
 
-			<div class="container">
+			<div class="container add-background">
         <div class="night flex-start">
           <div class="shooting_star"></div>
           <div class="shooting_star"></div>
@@ -1208,7 +1211,7 @@ body {
           <div class="shooting_star"></div>
           
         </div>
-        <div class="night">
+        <!-- <div class="night">
           <div class="shooting_star"></div>
           <div class="shooting_star"></div>
           <div class="shooting_star"></div>
@@ -1243,7 +1246,7 @@ body {
           <div class="shooting_star"></div>
           <div class="shooting_star"></div>
           <div class="shooting_star"></div>       
-        </div>
+        </div> -->
         <div class="night flex-end">
           <div class="shooting_star"></div>
           <div class="shooting_star"></div>
